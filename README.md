@@ -1,2 +1,2 @@
 # git_starter
-This is repository to train git commends and workglows 
+This README file is created for testing purposes.
